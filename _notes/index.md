@@ -2,6 +2,6 @@
 title: index
 ---
 
-[[cats.md]]
+[[cats]]
 
 I don't know.
