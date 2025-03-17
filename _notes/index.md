@@ -2,6 +2,6 @@
 title: index
 ---
 
-[[cats]]
+[[START HERE]]
 
 I don't know.
